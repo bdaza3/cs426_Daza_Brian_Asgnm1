@@ -3,3 +3,4 @@ This game follows the theme of "Living in the City" as the setting is in the mid
 Video clip: https://drive.google.com/file/d/1ws2eI-66H-khgA3k3OXLH7mKXkvA-dQt/view?usp=sharing 
 Credit to PoèMe - City Voxel Pack, SpaceZeta - Street Lamps 2, Phoenix3DStudio - Outdoor Wall Textures. All from Unity Asset Store
 Credit to artists, photographers, and channels for videos and pngs used in the game. 
+Commented on Piazza for Stephen Harayo and Hector Salto. 
